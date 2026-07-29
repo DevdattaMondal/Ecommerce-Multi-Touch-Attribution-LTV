@@ -261,7 +261,7 @@ python 05_export_tableau_data.py
 Example:
 
 ```[
-https://public.tableau.com/views/MarketingAnalyticsDashboard/ExecutiveDashboard](https://public.tableau.com/app/profile/devdatta.mondal/viz/EnterpriseE-CommerceMulti-TouchAttributionCustomerLTVAnalytics/ExecutiveMarketingDashboard)
+https://public.tableau.com/app/profile/devdatta.mondal/viz/EnterpriseE-CommerceMulti-TouchAttributionCustomerLTVAnalytics/ExecutiveMarketingDashboard
 ```
 
 ---
@@ -301,9 +301,9 @@ https://public.tableau.com/views/MarketingAnalyticsDashboard/ExecutiveDashboard]
 
 Data Analyst | Marketing Analytics | SQL | Python | Tableau | Excel
 
-- LinkedIn: *[(Add your LinkedIn URL)](https://www.linkedin.com/in/devdatta-mondal/)*
-- Tableau Public: *[(Add your Tableau Public URL)](https://public.tableau.com/app/profile/devdatta.mondal/viz/EnterpriseE-CommerceMulti-TouchAttributionCustomerLTVAnalytics/ExecutiveMarketingDashboard)*
-- GitHub: *[(Add your GitHub profile URL)](https://github.com/DevdattaMondal)*
+- LinkedIn: *[(https://www.linkedin.com/in/devdatta-mondal/)]*
+- Tableau Public: *[(https://public.tableau.com/app/profile/devdatta.mondal/viz/EnterpriseE-CommerceMulti-TouchAttributionCustomerLTVAnalytics/ExecutiveMarketingDashboard)]*
+- GitHub: *[(https://github.com/DevdattaMondal)]*
 
 ---
 
