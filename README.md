@@ -301,31 +301,9 @@ https://public.tableau.com/app/profile/devdatta.mondal/viz/EnterpriseE-CommerceM
 
 Data Analyst | Marketing Analytics | SQL | Python | Tableau | Excel
 
-- LinkedIn: *[(https://www.linkedin.com/in/devdatta-mondal/)]*
-- Tableau Public: *[(https://public.tableau.com/app/profile/devdatta.mondal/viz/EnterpriseE-CommerceMulti-TouchAttributionCustomerLTVAnalytics/ExecutiveMarketingDashboard)]*
-- GitHub: *[(https://github.com/DevdattaMondal)]*
-
----
-
-## Portfolio Checklist
-
-Before sharing this project:
-
-- ✅ Repository is Public
-- ✅ Tableau Public dashboard link is added
-- ✅ Dashboard screenshots are uploaded
-- ✅ README is complete
-- ✅ Repository topics include:
-  - `data-analytics`
-  - `marketing-analytics`
-  - `sql`
-  - `python`
-  - `tableau`
-  - `duckdb`
-  - `markov-chain`
-  - `cohort-analysis`
-  - `customer-lifetime-value`
-  - `attribution-modeling`
+- LinkedIn: *(https://www.linkedin.com/in/devdatta-mondal/)*
+- Tableau Public: *(https://public.tableau.com/app/profile/devdatta.mondal/viz/EnterpriseE-CommerceMulti-TouchAttributionCustomerLTVAnalytics/ExecutiveMarketingDashboard)*
+- GitHub: *(https://github.com/DevdattaMondal)*
 
 ---
 
