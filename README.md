@@ -54,7 +54,7 @@ A hypothetical **$100,000** quarterly marketing budget was redistributed using c
 | Database | DuckDB |
 | SQL | Window Functions, CTEs, STRING_AGG |
 | Programming | Python |
-| Libraries | Pandas, NumPy, SciPy |
+| Libraries | Pandas, NumPy, Matplotlib, SciPy |
 | Financial Modeling | Microsoft Excel |
 | Visualization | Tableau Public |
 | Version Control | Git & GitHub |
