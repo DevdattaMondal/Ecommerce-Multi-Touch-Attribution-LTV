@@ -12,7 +12,7 @@ Marketing teams often rely on single-touch attribution models such as **Last Tou
 
 This project develops an end-to-end **Marketing Analytics Engine** using the **thelook_ecommerce** dataset to evaluate customer journeys through multiple attribution models, calculate Customer Lifetime Value (LTV), optimize marketing budget allocation, and visualize actionable insights through an interactive Tableau dashboard.
 
-The project combines **DuckDB SQL**, **Python**, **Excel**, and **Tableau** to demonstrate a complete analytics workflow—from data engineering to executive reporting.
+The project combines **DuckDB SQL**, **Python**, **Excel**, and **Tableau** to demonstrate a complete analytics workflow, from data engineering to executive reporting.
 
 ---
 
