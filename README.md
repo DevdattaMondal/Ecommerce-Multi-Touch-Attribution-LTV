@@ -61,6 +61,30 @@ A hypothetical **$100,000** quarterly marketing budget was redistributed using c
 
 ---
 
+# Original Dataset
+
+This project uses the **thelook_ecommerce** dataset, a fictional e-commerce dataset created by Google for analytics and machine learning projects.
+
+The dataset contains information on:
+
+- Customer profiles
+- Website events and user sessions
+- Orders and order items
+- Products and inventory
+- Distribution centers
+
+These tables were used to reconstruct customer journeys, build attribution models, perform cohort analysis, and optimize marketing budget allocation.
+
+### Original Dataset
+
+The complete dataset can be accessed from the following source:
+
+- **Kaggle Mirror:** https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset
+
+> **Note:** This repository does **not** include the complete raw dataset due to its size. Instead, it includes the processed analytical datasets required to reproduce the attribution, LTV, and dashboard analyses.
+
+---
+
 # Project Architecture
 
 ```
