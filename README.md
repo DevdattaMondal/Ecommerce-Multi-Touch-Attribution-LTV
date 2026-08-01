@@ -79,7 +79,7 @@ These tables were used to reconstruct customer journeys, build attribution model
 
 The complete dataset can be accessed from the following source:
 
-- **Kaggle Mirror:** https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset
+- **Kaggle:** https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset
 
 > **Note:** This repository does **not** include the complete raw dataset due to its size. Instead, it includes the processed analytical datasets required to reproduce the attribution, LTV, and dashboard analyses.
 
