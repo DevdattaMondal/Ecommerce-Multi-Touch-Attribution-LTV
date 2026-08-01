@@ -331,4 +331,8 @@ Data Analyst | Marketing Analytics | SQL | Python | Tableau | Excel
 
 ---
 
-If you found this project interesting, feel free to ⭐ the repository.
+# License
+
+This project is intended for educational and portfolio purposes only.
+
+The thelook_ecommerce dataset is subject to Kaggle's licensing terms and is **not redistributed** in this repository.
